@@ -1,0 +1,17 @@
+Problema 3
+
+1.inicio
+2. contador, i[0, n]
+3_ contador2, i[0, n]
+3.cadenaF, x(200)[{1-9},{a-z},{A-Z},{BS}]<--""
+4.mientras(contador <=10)entonces
+5. 	si (contador2 MOD 2== 1)entonces
+6.	cadenaF = cadenaF + "+1/" contador
+7.	de lo contrario
+8.	cadenaF = cadenaF + "-1/" + contador 
+9.	fin si
+10.contador <-- contador + 2 
+11.contador2 < contador2 + 1
+12_ Fin_Mientras
+13_ Escribir cadenaF
+14. fin

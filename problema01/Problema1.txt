@@ -1,0 +1,13 @@
+Problema 1
+
+1_ Inicio
+2_ contador, d[0, n] <-- 1
+3_ mientras contador <= 10 entonces
+4_ 	Si (contador MOD 2)==0 entonces
+5_ 	Escribir "1/" + contador
+6_	De los contario
+7_	Escribir "-1/" +contador
+8_	Fin si
+9_	contador= contador + 1
+10_ fin mientras
+11_ Fin
